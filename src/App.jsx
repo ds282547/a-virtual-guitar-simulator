@@ -44,17 +44,17 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/a-virtual-guitar-simulator">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/a-virtual-guitar-simulator/about">About</Link>
             </li>
           </ul>
         </nav>
 
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/a-virtual-guitar-simulator" element={<Home />} />
+          <Route path="/a-virtual-guitar-simulator/about" element={<About />} />
         </Routes>
       </Router>
     </>
