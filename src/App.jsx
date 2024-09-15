@@ -5,14 +5,7 @@ import './App.css'
 
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-
-function Home() {
-  return <h2>Home Page</h2>;
-}
-
-function About() {
-  return <h2>About Page</h2>;
-}
+import GuitarApp from './components/Guitar/GuitarApp';
 
 
 function App() {
@@ -20,43 +13,10 @@ function App() {
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div className="App">
+      <h1>Virtual Guitar</h1>
+      <GuitarApp />
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-      <Router>
-        <nav>
-          <ul>
-            <li>
-              <Link to="/a-virtual-guitar-simulator">Home</Link>
-            </li>
-            <li>
-              <Link to="/a-virtual-guitar-simulator/about">About</Link>
-            </li>
-          </ul>
-        </nav>
-
-        <Routes>
-          <Route path="/a-virtual-guitar-simulator" element={<Home />} />
-          <Route path="/a-virtual-guitar-simulator/about" element={<About />} />
-        </Routes>
-      </Router>
     </>
   )
 }

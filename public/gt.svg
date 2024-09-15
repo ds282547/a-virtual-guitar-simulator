@@ -1,0 +1,37 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_18">
+   <stop id="jq_stop_4641" offset="0" stop-color="#f79a42"/>
+   <stop id="jq_stop_5079" offset="1" stop-color="#7f3f00" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="svg_19">
+   <stop id="jq_stop_1467" offset="0" stop-color="#7f3f00"/>
+   <stop id="jq_stop_4319" offset="1" stop-color="#633b16" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient fx="0.35" fy="0.57" id="svg_33" x1="0.83" x2="0.21" y1="0.8" y2="0.16">
+   <stop id="jq_stop_8715" offset="0" stop-color="#844b19" stop-opacity="0.98"/>
+   <stop id="jq_stop_3998" offset="1" stop-color="#bf7a3f" stop-opacity="0.99"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_24">
+   <path d="m161.43,358.57c10,-8 15,-61 62,-60c47,1 79,22 90,33c11,11 36,34 38,58c2,24 9,40 -5,62c-14,22 -39,31 -50,28c-11,-3 25,6 -5,80c-30,74 -93,63 -112,59c-19,-4 -71,-28 -94,-50c-23,-22 -52,-65 -46,-114c6,-49 24,-54 45,-69c21,-15 67,-19 77,-27z" fill="url(#svg_33)" id="svg_29" stroke="#000000" stroke-opacity="0" stroke-width="5"/>
+   <path d="m450.25,89.25c-6.62,12.87 12.04,75.94 9.03,75.94c-3.01,0 16.05,26.29 16.63,26.05c0.57,-0.23 34.55,-1.41 35.12,-1.64c0.57,-0.23 12.47,-19.48 13.04,-19.72c0.57,-0.23 19.48,-67.04 9.03,-81.57c-10.45,-14.53 -76.24,-11.93 -82.86,0.94z" fill="url(#svg_18)" id="svg_5" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="matrix(1 0 0 1 0 0) rotate(43.1029 492.531 134.85)"/>
+   <rect fill="url(#svg_19)" height="264.47" id="svg_4" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="rotate(43.1029 374.958 261.892)" width="48.02" x="350.95" y="129.65"/>
+   <ellipse cx="220.36" cy="427.08" fill="#000000" id="svg_7" rx="39.24" ry="30.84" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="rotate(43.1029 220.364 427.078)"/>
+   <rect fill="#7f0000" height="29.27" id="svg_8" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="rotate(43.1029 152.289 501.531)" width="113.61" x="95.48" y="486.9"/>
+   <line fill="none" id="svg_9" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="rotate(43.1029 151.866 496.84)" x1="119.66" x2="184.08" y1="493.7" y2="499.98"/>
+   <path d="m107.24,500.02c1.89,0 2.91,0.01 3.7,0.12c1.38,0.2 2.01,0.34 3.52,0.62c0.86,0.16 1.79,0.33 2.76,0.5c1.02,0.18 2.08,0.36 4.27,0.68c1.12,0.16 2.25,0.3 3.38,0.43c1.14,0.14 2.28,0.26 3.42,0.4c1.14,0.13 2.28,0.25 4.52,0.57c1.11,0.15 2.2,0.33 3.29,0.51c1.07,0.18 2.13,0.36 3.18,0.55c1.04,0.18 2.06,0.37 4.08,0.69c0.99,0.16 1.96,0.3 2.9,0.42c0.91,0.12 1.78,0.23 2.61,0.33c0.77,0.09 1.48,0.17 2.69,0.29c0.49,0.05 0.9,0.09 1.25,0.11c0.29,0.02 0.53,0.05 1.65,0.06c1.01,0.01 2.03,0 2.79,0c1.17,0 2.17,0 3.28,0c1.21,0 2.06,0 2.92,0c1.23,0 2.32,0 3.46,0c1.05,0 2.06,0.01 3.12,0c1.08,-0.01 2.01,-0.25 2.84,-0.52c1.14,-0.37 2.13,-0.49 3.05,-0.58c1.22,-0.11 2.24,-0.24 2.8,-0.31c1.2,-0.15 1.81,-0.25 3.06,-0.38c1.78,-0.19 2.33,-0.21 3.34,-0.26l1.26,-0.03l1.11,0l1.08,0" fill="none" id="svg_12" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="rotate(43.1029 147.906 503.159)"/>
+   <line fill="none" id="svg_14" stroke="#ffffff" stroke-width="5" transform="rotate(43.1029 154.502 500.023)" x1="110" x2="199.01" y1="499.5" y2="500.55"/>
+   <line fill="none" id="svg_20" stroke="#d8d8d8" stroke-width="3" transform="rotate(43.1029 296.462 324.341)" x1="296.46" x2="296.46" y1="99.59" y2="549.09"/>
+   <rect fill="#000000" height="7.32" id="svg_21" stroke="#000000" stroke-opacity="0" stroke-width="3" transform="rotate(43.1029 462.798 167.177)" width="51.53" x="437.03" y="163.52"/>
+   <line fill="none" id="svg_22" stroke="#d8d8d8" stroke-width="3" transform="rotate(43.1029 308.381 333.759)" x1="308.38" x2="308.38" y1="109.01" y2="558.51"/>
+   <line fill="none" id="svg_23" stroke="#d8d8d8" stroke-width="3" transform="rotate(43.1029 319.357 342.6)" x1="319.36" x2="319.36" y1="117.85" y2="567.35"/>
+   <ellipse cx="467.43" cy="86.07" fill="#000000" id="svg_25" rx="12" ry="10.5" stroke="#000000" stroke-opacity="0" stroke-width="5"/>
+   <ellipse cx="509.35" cy="179.36" fill="#000000" id="svg_26" rx="12" ry="10.5" stroke="#000000" stroke-opacity="0" stroke-width="5"/>
+   <ellipse cx="544.35" cy="155.36" fill="#000000" id="svg_27" rx="12" ry="10.5" stroke="#000000" stroke-opacity="0" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  </g>
+ </g>
+</svg>
